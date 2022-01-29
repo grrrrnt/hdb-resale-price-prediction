@@ -1,6 +1,14 @@
 # Predicting Future Prices of HDB Resale Flats in Singapore
 
-A machine learning project to predict future prices of HDB resale flats in Singapore, done as part of the CS3243 course in NUS.
+Using machine learning methods to predict future prices of HDB resale flats in Singapore, done as part of the CS3244 course in NUS.\
+
+Methods investigated:
+* Support Vector Regression
+* Random Forest
+* Neural Networks
+* Linear Regression
+* Ridge Regression
+* K-Nearest Neighbours Regression
 
 ## Python Notebook
 
